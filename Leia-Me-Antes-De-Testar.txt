@@ -1,0 +1,8 @@
+--Para que a aplicação web possa ser usada com sucesso
+é preciso criar o usuario abaixo no banco de dados dando 
+ao mesmo todos os privilegios globais.--
+
+
+User Name = maxwell
+Senha = 92616241	
+Host = localhost
